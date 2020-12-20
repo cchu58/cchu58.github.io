@@ -1,0 +1,59 @@
+html {
+    background-image: url(../images/terrazzo.jpg);
+}
+
+body {
+    width: 970px;
+    background-color: #acc06a;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 6px dashed white;
+    padding: 60px;
+    font-family: 'Rozha One', serif;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 4px;
+    color: #ffffff; 
+}
+
+img[src*="jpg"]{
+    border: 5px dashed white;
+}
+
+img[src*="png"] {
+    align-content: center;
+}
+
+nav {
+    margin: 25px;
+    font-size: 24px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e8f2aa;
+}
+
+p {
+    font-family: 'Spartan', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    letter-spacing: 1px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h4 {
+    color: #e8f2aa;
+    font-size: 12px;
+}
+
+iframe {
+    margin-top: 25px;
+}
